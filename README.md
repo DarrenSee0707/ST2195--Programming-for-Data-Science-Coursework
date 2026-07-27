@@ -1,7 +1,7 @@
 # ST2195--Programming-for-Data-Science-Coursework
 Coursework project for ST2195 using R and Python to analyse U.S. flight delays, traffic patterns, cascading airport disruptions, and predictive delay models.
 
-he project uses a subset of the 2009 ASA Statistical Computing and Graphics Data Expo flight dataset to explore key questions about airline performance and delays in the United States.
+The project uses a subset of the 2009 ASA Statistical Computing and Graphics Data Expo flight dataset to explore key questions about airline performance and delays in the United States.
 
 The analysis covers:
 
